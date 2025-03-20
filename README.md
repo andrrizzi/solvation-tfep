@@ -10,7 +10,7 @@ Furthermore, molecules containing aliphatic rings were identified
 using the CalcNumAliphaticRings function of the same module, and 
 these entities were then visually inspected to count "rotatable"
 bonds in these rings: this includes all bonds in aliphatic rings 
-which do **not** involve carbon atoms in sp^2 hybridisation state 
+which do **not** involve carbon atoms in sp^2^ hybridisation state 
 (meaning carbon atoms that participate in double bonds), because 
 these atoms are constrained on the same plane and do not undergo 
 meaningful rotation.
