@@ -2,7 +2,7 @@
 Experiments with targeted estimation of solvation free energies.
 
 ## Dataset evaluation
-Molecules were sampled from the FreeSolve dataset and binned by 
+Molecules were sampled from the FreeSolv dataset and binned by 
 flexibility. The CalcNumRotatableBonds function of the RDKit package 
 in the rdMolDescriptors module was employed in strict mode to count 
 all rotatable bonds in the molecules. 
@@ -18,7 +18,7 @@ meaningful rotation.
 In order to store this information regarding molecule flexibility, a 
 JSON file was generated with four keys:
 1. `molecule_ID` (string), which indicates the molecule ID attributed 
-in the FreeSolve dataset;
+in the FreeSolv dataset;
 2. `only_aromatic_ring` (bool), which indicates whether the molecule
 contains aliphatic rings;
 3. `num_rotatable_bonds` (int), the amount of classically defined

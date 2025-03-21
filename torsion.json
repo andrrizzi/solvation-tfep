@@ -2,3853 +2,3853 @@
   {
     "molecule_ID": "mobley_1017962",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1019269",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1034539",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1036761",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_1046331",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1075836",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1079207",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1107178",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1139153",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1144156",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1160109",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 4
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 4
   },
   {
     "molecule_ID": "mobley_1178614",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1189457",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1199854",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1231151",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1235151",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1244778",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 7
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 7
   },
   {
     "molecule_ID": "mobley_1261349",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1278715",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_129464",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1323538",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1328465",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1328936",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1352110",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1363784",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1396156",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1417007",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_1424265",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1449384",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1469079",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1502181",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1520842",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1527293",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1563176",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1571523",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1592519",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1615431",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1636752",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1650157",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1659169",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_1662128",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1674094",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1708457",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1717215",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1722522",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1723043",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 4
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 4
   },
   {
     "molecule_ID": "mobley_1728386",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_172879",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1733799",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1735893",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1743409",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1755375",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1760914",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1770205",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1781152",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1792062",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1800170",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1803862",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1821184",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1827204",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1838110",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1849020",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1855337",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1857976",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1858644",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_186894",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1873346",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1875719",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1881249",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1893815",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1893937",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1896013",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_1899443",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1903702",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1905088",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1922649",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1923244",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1929982",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_194273",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1944394",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1952272",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1963873",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1967551",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_197466",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_1976156",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1977493",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_1987439",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2005792",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2008055",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2023925",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2043882",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_2049967",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_20524",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2068538",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2078467",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2099370",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_210639",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2123854",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2126135",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2143011",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2146331",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2178600",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2183616",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2197088",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2198613",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2213823",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2245668",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2261979",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_2269032",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2279874",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2294995",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2295058",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2310185",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2316618",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2328633",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_2341732",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2354112",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2364370",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2371092",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2390199",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2402487",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2410897",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2422586",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_242480",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2451097",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2457863",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2481002",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2484519",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2487143",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2489709",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2492140",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2493732",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2501588",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_2517158",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2518989",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2523689",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_252413",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2577969",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2607611",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2609604",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2613240",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2636578",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2659552",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2661134",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2681549",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2689721",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_2693089",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2725215",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2725802",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_2727678",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2751110",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2763835",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2771569",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_2782339",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2784376",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_2789243",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2792521",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2802855",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_282648",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2837389",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2844990",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2845466",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2850833",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2859600",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2864987",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2881590",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2913224",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2923700",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2925352",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2929847",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2958326",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2960202",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_296847",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2972345",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2972906",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_299266",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_2996632",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3006808",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_303222",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3034976",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3040612",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3047364",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3053621",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3060426",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3083321",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3105103",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_313406",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3144334",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3151666",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3167746",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3169935",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3183805",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3187514",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3201701",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3210206",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3211679",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_3234716",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3259411",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3264884",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3265457",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3266352",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3269565",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3269819",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3274817",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3318135",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3323117",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_3325209",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3359593",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3370989",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_337666",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3378420",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3395921",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_3398536",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3414356",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3425174",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3452749",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_349850",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3515580",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_352111",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3525176",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3546460",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3572203",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3573480",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3589456",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_36119",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3639400",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3663158",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3682850",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 4
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 4
   },
   {
     "molecule_ID": "mobley_3686115",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3690931",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3709920",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3715043",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3727287",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3738859",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3746675",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3761215",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3762186",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3775790",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3777264",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3802803",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3843583",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3867265",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3968043",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_3968739",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3969312",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_397645",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3976574",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3980099",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3982371",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_3999471",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4013838",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4035953",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4039055",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4043951",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4043987",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4059279",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_4149784",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4177472",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4188615",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4193752",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4218209",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4219614",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4252724",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4287564",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4291494",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_430089",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4305650",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4338603",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4364398",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4371692",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4375719",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4395315",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4434915",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4463913",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4465023",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4479135",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4483973",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4494568",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4506634",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4553008",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4561957",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4584540",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4587267",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4603202",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4609460",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4613090",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4620651",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_4630641",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4639255",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4678740",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4683624",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4687447",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_468867",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_4690963",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4694328",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4699732",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4715906",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_4759887",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4762983",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4780078",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4792268",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4845722",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4850657",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_486214",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4883284",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4884177",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4893032",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4924862",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_49274",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4934872",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4936555",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4964807",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_4983965",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5003962",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5006685",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_5026370",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5052949",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5056289",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_5063386",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5072416",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5076071",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5079234",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5094777",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 2
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 2
   },
   {
     "molecule_ID": "mobley_5110043",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_511661",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5123639",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5157661",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5200358",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5220185",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_525934",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5263791",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_52782",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5282042",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 1
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 1
   },
   {
     "molecule_ID": "mobley_5286200",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5310099",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5311804",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5326154",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5346580",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5347550",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5371840",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5390332",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5393242",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5445548",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5449201",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5456566",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5467162",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5471704",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_547634",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5494918",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5499659",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_550662",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5510474",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5518547",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5520946",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5538249",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5561855",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5571660",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5600967",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5616693",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 4
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 4
   },
   {
     "molecule_ID": "mobley_5627459",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5631798",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5665561",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5690766",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5692472",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5708811",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5732611",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5747188",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5747981",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5759258",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5760563",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5816127",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5852491",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_5857",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5880265",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_588781",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5890803",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_590519",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5917842",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5935995",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5948990",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5952846",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5973402",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_5977084",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6006813",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6055410",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6060301",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6081058",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6082662",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6091882",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6102880",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6115639",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6175884",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6190089",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6195751",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6198745",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6201330",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6232400",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6235784",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6239320",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6248915",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6250025",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6257907",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6266306",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 4
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 4
   },
   {
     "molecule_ID": "mobley_627267",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_628086",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_628951",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6303022",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6309289",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_632905",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6334915",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6338073",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6353617",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6358463",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6359135",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6359156",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_63712",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_637522",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6416775",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_6430250",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6456034",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_646007",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_6474572",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6497672",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6522117",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6571751",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_6619554",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6620221",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 2
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 2
   },
   {
     "molecule_ID": "mobley_6632459",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_664966",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_667278",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6688723",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6714389",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6727159",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6733657",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 9
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 9
   },
   {
     "molecule_ID": "mobley_6739648",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_6743808",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_676247",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6794076",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6804509",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6812653",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6843802",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6854178",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6861308",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6896128",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6911232",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6917738",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6929123",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6935906",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6973347",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6978427",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_6981465",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_6988468",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7009711",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7010316",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_7015518",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7017274",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7039935",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7047032",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7066554",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7099614",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7106722",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7142697",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7150646",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7157427",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7176248",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7176290",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_718988",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7200804",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7203421",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7227357",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7239499",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7261305",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7295828",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7298388",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7326706",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7326982",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7360181",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7364468",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_7375018",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7378987",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7393673",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7415647",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7417968",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7455579",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7463408",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7463799",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7497999",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7532833",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7542832",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_755351",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7573149",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7578802",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7599023",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7608435",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7608462",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7610437",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_766666",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7676709",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_7688753",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7690440",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7708038",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7732703",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7735340",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7754849",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 12,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 12,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7758918",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7768165",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7769613",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7774695",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_778352",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7794077",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7814642",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7829570",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7859387",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7860938",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7869158",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7893124",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7912193",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7913234",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7943327",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7977115",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7983227",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_7988076",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8006582",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_8011706",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8048190",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8052240",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8057732",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8117218",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 14
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 14
   },
   {
     "molecule_ID": "mobley_8118832",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8124669",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8127829",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_819018",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8191186",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8207196",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_820789",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8208692",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8221999",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8260524",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8311303",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8311321",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8320545",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8337722",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_8337977",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8426916",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8427539",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8436428",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8449031",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8467917",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8492526",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8514745",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8522124",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8525830",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_852937",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8558116",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_8573194",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8578590",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_859464",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8614858",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8668219",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8685905",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8691603",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8705848",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8713762",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8723116",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8739734",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8746821",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8754702",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8764620",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8765203",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8772587",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8785107",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_8789465",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8789864",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8798016",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8809190",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8809274",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8823527",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8827942",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8861672",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8882696",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_8883511",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8885088",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 2
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 2
   },
   {
     "molecule_ID": "mobley_8899867",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 5
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 5
   },
   {
     "molecule_ID": "mobley_8916409",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 9,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 9,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8966374",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_8983100",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_900088",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9007496",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9015240",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9028462",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_902954",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9029594",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9055303",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9073553",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9100956",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_9112978",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9114381",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9121449",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9139060",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_9185328",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9197172",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9201263",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9209581",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9246215",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9246351",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9257453",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9281946",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_929676",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9407874",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 5,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 5,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9414831",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9434451",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9460824",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 8,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 8,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9478823",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9507933",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9510785",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_951560",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_9534740",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 6
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 6
   },
   {
     "molecule_ID": "mobley_9557440",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9565165",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 8
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 8
   },
   {
     "molecule_ID": "mobley_9571888",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 9
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 9
   },
   {
     "molecule_ID": "mobley_9617923",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 7,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 7,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9624458",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9626434",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9653690",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 3
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 3
   },
   {
     "molecule_ID": "mobley_967099",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9671033",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9705941",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9717937",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9729792",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9733743",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9740891",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9741965",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 6,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 6,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9794857",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9821936",
     "only_aromatic_rings": false,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9838013",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9883303",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 3,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 3,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9897248",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 4,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 4,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9913368",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9942801",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 1,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 1,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_994483",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9974966",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 2,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 2,
+    "num_aliphatic_ring_rotatable_bonds": 0
   },
   {
     "molecule_ID": "mobley_9979854",
     "only_aromatic_rings": true,
-    "num_rotatable_bonds": 0,
-    "num_aliphatic_bonds": 0
+    "num_acyclic_rotatable_bonds": 0,
+    "num_aliphatic_ring_rotatable_bonds": 0
   }
 ]
