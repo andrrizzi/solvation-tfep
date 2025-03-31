@@ -1,0 +1,326 @@
+[
+  {
+    "molecule_ID": "mobley_1036761",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_1160109",
+    "num_torsions": "4"
+  },
+  {
+    "molecule_ID": "mobley_1244778",
+    "num_torsions": "7"
+  },
+  {
+    "molecule_ID": "mobley_1417007",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_1469079",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_1659169",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_1723043",
+    "num_torsions": "4"
+  },
+  {
+    "molecule_ID": "mobley_172879",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_1896013",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_197466",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_2043882",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_2261979",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_2316618",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2328633",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_242480",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2501588",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_2518989",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2689721",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_2725802",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_2771569",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_2782339",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2784376",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_2844990",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2845466",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2960202",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_2972345",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_3211679",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_3323117",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_3395921",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_3682850",
+    "num_torsions": "4"
+  },
+  {
+    "molecule_ID": "mobley_3727287",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_3968043",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_3976574",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_4059279",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_4149784",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_4371692",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_4620651",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_468867",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_4715906",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_5003962",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_5006685",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_5056289",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_5094777",
+    "num_torsions": "2"
+  },
+  {
+    "molecule_ID": "mobley_5282042",
+    "num_torsions": "1"
+  },
+  {
+    "molecule_ID": "mobley_5371840",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_5510474",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_5616693",
+    "num_torsions": "4"
+  },
+  {
+    "molecule_ID": "mobley_5852491",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_6266306",
+    "num_torsions": "4"
+  },
+  {
+    "molecule_ID": "mobley_6309289",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_63712",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_6416775",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_646007",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_6571751",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_6620221",
+    "num_torsions": "2"
+  },
+  {
+    "molecule_ID": "mobley_6733657",
+    "num_torsions": "9"
+  },
+  {
+    "molecule_ID": "mobley_6739648",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_6978427",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_7010316",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_7239499",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_7364468",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_7676709",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_8006582",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_8052240",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_8117218",
+    "num_torsions": "14"
+  },
+  {
+    "molecule_ID": "mobley_8337722",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_8558116",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_8785107",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_8827942",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_8882696",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_8885088",
+    "num_torsions": "2"
+  },
+  {
+    "molecule_ID": "mobley_8899867",
+    "num_torsions": "5"
+  },
+  {
+    "molecule_ID": "mobley_9100956",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_9139060",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_951560",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_9534740",
+    "num_torsions": "6"
+  },
+  {
+    "molecule_ID": "mobley_9565165",
+    "num_torsions": "8"
+  },
+  {
+    "molecule_ID": "mobley_9571888",
+    "num_torsions": "9"
+  },
+  {
+    "molecule_ID": "mobley_9653690",
+    "num_torsions": "3"
+  },
+  {
+    "molecule_ID": "mobley_9729792",
+    "num_torsions": "0"
+  },
+  {
+    "molecule_ID": "mobley_9821936",
+    "num_torsions": "0"
+  }
+]
