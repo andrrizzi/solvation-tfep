@@ -23,6 +23,7 @@ rotatable bonds in the molecule as obtained with the RDKit package;
 counted by visual inspection, as defined above.
 
 The directory also includes a manually annotated JSON with the 
-numbers of cyclic aliphatic bonds, a library in SDF format and a 
+numbers of cyclic aliphatic bonds, a library in SDF format obtained 
+by concatenating all sdf files from the FreeSolv repository and a 
 script in Python to use the two former files to count rotatable bonds
 in the entire dataset.
