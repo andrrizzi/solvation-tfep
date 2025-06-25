@@ -1,16 +1,22 @@
 # Alchemical simulations
 In this folder, you will find a Python script to automatically perform 
-a relative free energy of solvation analysis from methane to iodomethane.
+an absolute hydration free energy (AHFE) and a relative hydration free 
+energy (RHFE) analysis from methane to iodomethane with two different 
+software packages (`biosimspace` and `openfe`).
 
-The script uses the `biosimspace` simulation package from OpenBioSim,
-and performs a simulation for 40 ps of equilibration and 100 ps of
-production. You may change these parameters (equilibration and production 
-duration) to your liking by editing the main function in the script.
-You may also change the molecules to perform the analysis on, but
-avoid extremely flexible molecules as the mapping function is set to 
-RMSD.
+The first script, `bss_simulation.py`, uses the `biosimspace` simulation 
+package from OpenBioSim, and performs a default RHFE simulation for 1
+ns of equilibration and 4 ns of production. You may change the molecules 
+to perform the analysis on by editing the SMILES in input, but avoid 
+extremely flexible molecules as the mapping function is set to RMSD.
 
-Please download the `biosimspace` package from the OpenBioSim suite.
+The second script, `openfe_simulation.py`, uses the `openfe` simulation
+package from OpenFreeEnergy, and can perform either a AHFE or a RHFE
+simulation. The length of the simulations, left as default, is left 
+explicit in the main function so that it may be changed for testing.
+`openfe` uses `sdf` format files as input.
+
+Please download the `biosimspace` and `openfe` packages.
 
 When you launch the script, directories will be created to setup the 
 simulation, then at the end the results will be printed to screen.

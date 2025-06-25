@@ -15,7 +15,7 @@ def rhfe_simulation(input_file: str, durations) -> None:
     solvent = SolventComponent(positive_ion = 'K', negative_ion = 'Cl', 
                                neutralize = True)
 
-    # protocol - set shorter simulation times
+    # protocol - set simulation times
     rhfe_settings = RelativeHybridTopologyProtocol.default_settings()
     rhfe_settings.simulation_settings.equilibration_length, rhfe_settings.simulation_settings.production_length = durations
     rhfe_protocol = RelativeHybridTopologyProtocol(settings = rhfe_settings)
@@ -69,10 +69,9 @@ def ahfe_simulation(input_file: str, durations) -> None:
                                       'solvent': solvent}, name = ligand_mols[0].name)
     systemB = ChemicalSystem({'solvent': solvent})
 
-    # protocol - set shorter simulations times
+    # protocol - set simulations times
     ahfe_settings = AbsoluteSolvationProtocol.default_settings()
-    ahfe_settings.solvent_simulation_settings.equilibration_length, ahfe_settings.solvent_simulation_settings.production_length = durations
-    ahfe_settings.vacuum_simulation_settings.equilibration_length, ahfe_settings.vacuum_simulation_settings.production_length = durations
+    ahfe_settings.solvent_simulation_settings.equilibration_length, ahfe_settings.solvent_simulation_settings.production_length, ahfe_settings.vacuum_simulation_settings.equilibration_length, ahfe_settings.vacuum_simulation_settings.production_length = durations
     ahfe_protocol = AbsoluteSolvationProtocol(settings = ahfe_settings)
 
     transformation = Transformation(
@@ -99,9 +98,14 @@ def ahfe_simulation(input_file: str, durations) -> None:
 if __name__ == '__main__':
     from openff.units import unit
 
-    durations = { "equilibration": 10, "production": 10 }
-    durations = (durations["equilibration"] * unit.picosecond, durations["production"] * unit.picosecond)
+    # rhfe simulation with default settings
+    rhfe_durations = { "equilibration": 1, "production": 5 }
+    rhfe_durations = (rhfe_durations["equilibration"] * unit.nanosecond, rhfe_durations["production"] * unit.nanosecond)
+    rhfe_simulation("input_molecules.sdf", rhfe_durations)
 
-    # comment/uncomment based on what simulation you want to run
-    ahfe_simulation("input_molecules.sdf", durations)
-    # rhfe_simulation("input_molecules.sdf", durations)
+    # ahfe simulation with default settings
+    ahfe_durations = { "solvent": { "equilibration": 1, "production": 10 },
+                       "vacuum": { "equilibration": 0.5, "production": 2 }}
+    ahfe_durations = (ahfe_durations["solvent"]["equilibration"] * unit.nanosecond, ahfe_durations["solvent"]["production"] * unit.nanosecond,
+                 ahfe_durations["vacuum"]["equilibration"] * unit.nanosecond, ahfe_durations["vacuum"]["production"] * unit.nanosecond)
+    ahfe_simulation("input_molecules.sdf", ahfe_durations)

@@ -45,10 +45,9 @@ def BSS_simulation(smilesA: str, smilesB: str, durations) -> None :
         print("Results are not reliable, please extend duration of the simulation.")
 
 if __name__ == '__main__':
-    duration = { "equilibration": 40, "production": 100 } # in picoseconds
+    duration = { "equilibration": 1, "production": 4 } # in nanoseconds
     mol_A = "C"
     mol_B = "CI"
 
-    duration = (BSS.Types.Time(duration["equilibration"], "ps"), BSS.Types.Time(duration["production"], "ps"))
-
+    duration = (BSS.Types.Time(duration["equilibration"], "ns"), BSS.Types.Time(duration["production"], "ns"))
     BSS_simulation(mol_A, mol_B, duration)
