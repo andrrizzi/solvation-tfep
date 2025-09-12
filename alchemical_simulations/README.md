@@ -24,3 +24,8 @@ You will be warned if the simulation was too short and the results
 are not reliable.
 If you decide to rerun a simulation, please backup or remove your
 previous results. Be aware that the simulation may take a while to run.
+
+Included is a script to run the AHFE simulations on an HPC environment
+with slurm, named `submit.sh`. The script launches three copies of a 
+single calculation to optimise resource utilization, instead of 
+running the copies serially as is the default for `openfe`.
