@@ -1,31 +1,82 @@
 # Alchemical simulations
 In this folder, you will find a Python script to automatically perform 
-an absolute hydration free energy (AHFE) and a relative hydration free 
-energy (RHFE) analysis from methane to iodomethane with two different 
-software packages (`biosimspace` and `openfe`).
+absolute hydration free energy (AHFE) simulations for a given library
+of compounds using OpenFE.
 
-The first script, `bss_simulation.py`, uses the `biosimspace` simulation 
-package from OpenBioSim, and performs a default RHFE simulation for 1
-ns of equilibration and 4 ns of production. You may change the molecules 
-to perform the analysis on by editing the SMILES in input, but avoid 
-extremely flexible molecules as the mapping function is set to RMSD.
+The script (`openfe_transform.py`) can print an help string to explain
+usage. A library file is necessary, and a force field and a partial charge
+method can be specified (they default to `openff-2.2.1` and `nagl`, but
+other options are available).
 
-The second script, `openfe_simulation.py`, uses the `openfe` simulation
-package from OpenFreeEnergy, and can perform either a AHFE or a RHFE
-simulation. The length of the simulations, left as default, is left 
-explicit in the main function so that it may be changed for testing.
-`openfe` uses `sdf` format files as input.
+A directory will be created containing the JSON format transformations 
+that can be run using the `openfe` package. Refer to `openfe` 
+documentation for further information.
 
-Please download the `biosimspace` and `openfe` packages.
+Results of the simulations for almost (500/650) all molecules in the 
+library are available for openff-nagl and gaff-am1bcc force field/partial
+charge method combinations. The results, indexed by mobley ID, consist of:
+- a results section, with the absolute hydration free energy estimate and 
+uncertainty for each force field and partial charge method combination 
+(`openff-nagl`, `gaff-am1bcc`);
+- an analysis section, with values describing the distributions of potentials 
+of the simulations obtained with FEP (see andrrizzi/tfep) (`mean`, `median`,
+`standard_deviation`, `confidence_interval`, `effective_sample_size`) for 
+each force field and partial charge method in both directions (`openff-gaff`,
+`gaff-openff`).
 
-When you launch the script, directories will be created to setup the 
-simulation, then at the end the results will be printed to screen.
-You will be warned if the simulation was too short and the results
-are not reliable.
-If you decide to rerun a simulation, please backup or remove your
-previous results. Be aware that the simulation may take a while to run.
+File snippet below:
+```
+{
+    ...
+    "mobley_1723043": {
+        "results": {
+            "gaff-am1bcc": {
+                "estimate": {
+                    "magnitude": 1.4730056952143862,
+                    "unit": "kilocalorie_per_mole"
+                },
+                "uncertainty": {
+                    "magnitude": 0.06999298380487426,
+                    "unit": "kilocalorie_per_mole"
+                }
+            },
+            "openff-nagl": {
+                "estimate": {
+                    "magnitude": 2.456256739808371,
+                    "unit": "kilocalorie_per_mole"
+                },
+                "uncertainty": {
+                    "magnitude": 0.012369145070170616,
+                    "unit": "kilocalorie_per_mole"
+                }
+            }
+        },
+        "analysis": {
+            "fep": {
+                "gaff-openff": {
+                    "mean": -275.28871637805076,
+                    "median": -275.73644854215354,
+                    "standard_deviation": 2.943703851337015,
+                    "confidence_interval": {
+                        "low": -279.9596987866364,
+                        "high": -268.2420609650112
+                    },
+                    "effective_sample_size": 1.0000023594773202
+                },
+                "openff-gaff": {
+                    "mean": -354.2557583160784,
+                    "median": -354.69171148266446,
+                    "standard_deviation": 3.079063592947018,
+                    "confidence_interval": {
+                        "low": -358.8039043236034,
+                        "high": -346.92646779010386
+                    },
+                    "effective_sample_size": NaN
+                }
+            }
+        }
+    },
+    ...
+}
+```
 
-Included is a script to run the AHFE simulations on an HPC environment
-with slurm, named `submit.sh`. The script launches three copies of a 
-single calculation to optimise resource utilization, instead of 
-running the copies serially as is the default for `openfe`.
