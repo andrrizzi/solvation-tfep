@@ -1,72 +1,76 @@
-import torch
 import math
 import json
-import os
 import openmm
+import pint
 import openmm.unit as unit
 import numpy as np
-from openmm.app import PDBFile, Modeller, ForceField
+import pandas as pd
+from pathlib import Path
+from itertools import permutations
+from openmm.app import ForceField, Modeller, PDBFile
 from netCDF4 import Dataset
-import pint
 
 UNITS = pint.UnitRegistry()
-TEMPERATURE = 298.15 * UNITS.kelvin  # Temperature of the system.
+TEMPERATURE = 298.15 * UNITS.kelvin
 RT = (TEMPERATURE * UNITS.molar_gas_constant).to(UNITS.kJ / UNITS.mol).magnitude
 
 
-def get_reference_potentials(input_file: str) -> list:
+def get_sim_info(input_dir: Path) -> tuple:
     """
-    Extract reference potential energies from netCDF4 for lambda state 1.0.
+    Extract info from netCDF4 concerning potentials, positions and box vectors.
     ---
     parameters
-    input_file: name of input file
+    input_dir (str): directory of the molecule to analyse
     ---
     returns
-    list of potentials for lambda state 1.0
+    lambda1_potentials (list): potentials for simulation at lambda state 1.0
+    lambda1_positions (list): positions for simulation at lambda state 1.0
+    lambda1_box_vectors(list): box vectors for simulation at lambda state 1.0
     """
-    simulation_data = Dataset(input_file)
-
-    potentials, states = (
-        simulation_data.variables["energies"][:],
-        simulation_data.variables["states"][:],
+    solvent_simulation_files = sorted(
+        [
+            z
+            for z in input_dir.iterdir()
+            if z.name.startswith("shared_AHFESolventSimUnit")
+        ]
     )
 
-    state_index = [int(np.where(x == 13)[0][0]) for x in states]
+    lambda1_potentials, lambda1_positions, lambda1_box_vectors = [], [], []
+    for filename in solvent_simulation_files:
+        simulation_data = Dataset(filename / "solvent.nc")
+        position_data = Dataset(filename / "solvent_checkpoint.nc")
 
-    lambda1_potentials = []
-    for timestep in range(0, len(potentials), 40):
-        lambda1_potentials.append(potentials[timestep][state_index[timestep]][13])
+        # energies[iteration][replica][state], (4001, 14, 14)
+        # states[iteration][replica], (4001, 14)
+        potentials, states = (
+            simulation_data.variables["energies"][:],
+            simulation_data.variables["states"][:],
+        )
 
-    return lambda1_potentials
+        # positions[iteration][replica][atom][spatial], (4001, 14, 16, 3)
+        # box_vectors[iteration][replica][i][j], (4001, 14, 3, 3)
+        positions, box_vectors = (
+            position_data.variables["positions"][:],
+            position_data.variables["box_vectors"][:],
+        )
 
+        state_index = [int(np.where(x == 0)[0][0]) for x in states]
 
-def get_positions(input_file: str) -> list:
-    """
-    Extract small molecules positions from netCDF4 for lambda state 1.0.
-    ---
-    parameters
-    input_file: name of input file
-    ---
-    returns
-    list of positions (x,y,z) for lambda state 1.0
-    """
-    simulation_data = Dataset(input_file)
+        for ts in range(0, len(potentials), 400):
+            lambda1_potentials.append(potentials[ts][state_index[ts]][0])
 
-    positions, states = (
-        simulation_data.variables["positions"][:],
-        simulation_data.variables["states"][:],
-    )
+        for ts in range(len(positions)):
+            lambda1_positions.append(positions[ts][state_index[ts * 400]])
+            lambda1_box_vectors.append(
+                box_vectors[ts][state_index[ts * 400]].data.tolist()
+            )
 
-    state_index = [int(np.where(x == 13)[0][0]) for x in states]
-
-    lambda1_positions = []
-    for ts in range(0, len(positions), 40):
-        lambda1_positions.append(positions[ts][state_index[ts]][:-4])
-
-    return lambda1_positions
+    return lambda1_potentials, lambda1_positions, lambda1_box_vectors
 
 
-def get_target_system(simulation_path: str, forcefield: str) -> openmm.System:
+def create_target_system(
+    simulation_path: Path, target_forcefield: str, number_of_positions: int
+) -> openmm.System:
     """
     Generate a system in the target force-field.
     ---
@@ -77,41 +81,71 @@ def get_target_system(simulation_path: str, forcefield: str) -> openmm.System:
     returns
     target_system (openmm.System): OpenMM system in target force field
     """
-    solvent_setup_directories = [
-        x
-        for x in os.listdir(simulation_path)
-        if x.startswith("shared_AHFESolventSetupUnit")
-    ]
-    vacuum_setup_directories = [
-        y
-        for y in os.listdir(simulation_path)
-        if y.startswith("shared_AHFEVacuumSetupUnit")
-    ]
 
-    pdb = PDBFile(f"{simulation_path}/{vacuum_setup_directories[0]}/hybrid_system.pdb")
+    solvent_setup_directories = sorted(
+        [
+            x
+            for x in simulation_path.iterdir()
+            if x.name.startswith("shared_AHFESolventSetupUnit")
+        ]
+    )
 
-    with open(
-        f"{simulation_path}/{solvent_setup_directories[0]}/db.json",
-        "r",
-        encoding="utf-8",
-    ) as c:
-        ff_cache = json.load(c)
+    vacuum_setup_directories = sorted(
+        [
+            y
+            for y in simulation_path.iterdir()
+            if y.name.startswith("shared_AHFEVacuumSetupUnit")
+        ]
+    )
 
-    with open(f"{simulation_path}/{forcefield}.xml", "w", encoding="utf-8") as ffxml:
-        ffxml.write(ff_cache[forcefield]["1"]["ffxml"])
+    forcefield_input_path = solvent_setup_directories[0] / "db.json"
+    forcefield_output_path = simulation_path / f"{target_forcefield}.xml"
+    pdb_input_path = vacuum_setup_directories[0] / "hybrid_system.pdb"
 
-    ff = ForceField(f"{simulation_path}/{forcefield}.xml")
+    with forcefield_input_path.open(mode="r", encoding="utf-8") as db:
+        ff = json.load(db)
+
+    forcefield_output_path.write_text(ff[target_forcefield]["1"]["ffxml"], encoding="utf-8")
+
+    forcefield = ForceField(
+        forcefield_output_path,
+        "amber/tip3p_standard.xml",
+        "amber/tip3p_HFE_multivalent.xml",
+    )
+
+    pdb = PDBFile(str(pdb_input_path))
+    num_mol_atoms = len(pdb.getPositions())
+    solvent_atoms = number_of_positions - num_mol_atoms - 4
+    num_solvent_molecules = int((solvent_atoms / 3) + 4)
 
     modeller = Modeller(pdb.topology, pdb.positions)
+    modeller.addSolvent(
+        forcefield,
+        model="tip3p",
+        boxShape="cube",
+        numAdded=num_solvent_molecules,
+        positiveIon="K+",
+        negativeIon="Cl-",
+        ionicStrength=0.15 * unit.molar,
+        neutralize=True,
+    )
 
-    target_system = ff.createSystem(
+    target_system = forcefield.createSystem(
         modeller.topology,
+        nonbondedMethod=openmm.app.PME,
+        nonbondedCutoff=1.0 * unit.nanometer,
+        constraints=openmm.app.HBonds,
+        rigidWater=True,
+        removeCMMotion=False,
+        hydrogenMass=3.0 * unit.amu,
     )
 
     return target_system
 
 
-def reevaluate_in_target_system(positions: list, target_system: openmm.System) -> list:
+def reevaluate_in_target_system(
+    positions: list, box_vectors: list, target_system: openmm.System
+) -> list:
     """
     Re-evaluate potential energies of simulation in target force field.
     ---
@@ -128,9 +162,14 @@ def reevaluate_in_target_system(positions: list, target_system: openmm.System) -
     context = openmm.Context(target_system, integrator, platform)
 
     target_energies = []
-    for _, pos in enumerate(positions):
+    for ts, pos in enumerate(positions):
+        context.setPeriodicBoxVectors(
+            box_vectors[ts][0] * unit.nanometer,
+            box_vectors[ts][1] * unit.nanometer,
+            box_vectors[ts][2] * unit.nanometer,
+        )
         context.setPositions(pos)
-        state = context.getState(getEnergy=True)
+        state = context.getState(getPositions=True, getEnergy=True)
         potential_in_kt = (
             state.getPotentialEnergy().value_in_unit(unit.kilojoule_per_mole) / RT
         )
@@ -139,7 +178,7 @@ def reevaluate_in_target_system(positions: list, target_system: openmm.System) -
     return target_energies
 
 
-def get_statistics(work: torch.Tensor) -> dict:
+def get_statistics(work: np.array) -> dict:
     """
     Retrieve diagnostics for the simulation results.
     ---
@@ -165,15 +204,15 @@ def get_statistics(work: torch.Tensor) -> dict:
         float of effective sample size ratio
         """
 
-        weights = [math.e ** (-u) for u in delta_u]
+        weights = [math.e ** (-u) for u in delta_u if not np.isnan(u)]
         ess = (sum(weights)) ** 2 / sum(w**2 for w in weights)
 
         return ess / len(weights)
 
     statistics = {
-        "mean": float(torch.mean(work)),
-        "median": float(torch.median(work)),
-        "standard_deviation": float(torch.std(work)),
+        "mean": float(np.nanmean(work)),
+        "median": float(np.nanmedian(work)),
+        "standard_deviation": float(np.nanstd(work)),
         "effective_sample_size_ratio": float(essr(work)),
         "unit": "kT",
     }
@@ -183,7 +222,7 @@ def get_statistics(work: torch.Tensor) -> dict:
 
 def get_work(
     mobley_id: str, reference_forcefield: str, target_forcefield: str
-) -> torch.Tensor:
+) -> np.array:
     """
     Calculate work between potentials in reference force field and
     potentials re-evaluated in target forcefield.
@@ -197,44 +236,41 @@ def get_work(
     work (torch.Tensor): tensor containing the difference in potentials
                          between the force fields
     """
-    solvent_sim_unit = sorted(
-        [
-            z
-            for z in os.listdir(f"{reference_forcefield}/runs/{mobley_id}_run/")
-            if z.startswith("shared_AHFESolventSimUnit")
-        ]
-    )
-    positions = (
-        get_positions(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[0]}/solvent.nc"
-        )
-        + get_positions(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[1]}/solvent.nc"
-        )
-        + get_positions(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[2]}/solvent.nc"
-        )
+    def remove_outliers(energies: list) -> np.array:
+        """
+        Remove outlier energies that mess up the statistics using 
+        interquartile distance from the median.
+        ---
+        parameters
+        energies (np.array): np.array that contains the energy values
+        ---
+        returns
+        np.array with outliers replaced with NaNs
+        """
+        df = pd.DataFrame({'energies': energies})
+        df_sub = df.loc[:, 'energies']
+
+        iqr = df_sub.quantile(0.75) - df_sub.quantile(0.25)
+        lim = np.abs((df_sub - df_sub.median()) / iqr) < 2.22
+
+        df.loc[:, 'energies'] = df_sub.where(lim, np.nan)
+
+        return np.array(df.loc[:, 'energies'])
+
+    mol_ref_run_path = Path(f"{reference_forcefield}/runs/{mobley_id}_run/")
+    mol_tar_run_path = Path(f"{target_forcefield}/runs/{mobley_id}_run/")
+    reference_energies, positions, box_vectors = get_sim_info(mol_ref_run_path)
+
+    system = create_target_system(
+        mol_tar_run_path, target_forcefield, len(positions[0])
     )
 
-    system = get_target_system(
-        f"{target_forcefield}/runs/{mobley_id}_run",
-        f"{target_forcefield}",
-    )
+    target_energies = reevaluate_in_target_system(positions, box_vectors, system)
 
-    target_energies = reevaluate_in_target_system(positions, system)
-    reference_energies = (
-        get_reference_potentials(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[0]}/solvent.nc"
-        )
-        + get_reference_potentials(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[1]}/solvent.nc"
-        )
-        + get_reference_potentials(
-            f"{reference_forcefield}/runs/{mobley_id}_run/{solvent_sim_unit[2]}/solvent.nc"
-        )
-    )
+    target_energies = remove_outliers(target_energies)
+    reference_energies = remove_outliers(reference_energies)
 
-    return torch.tensor(np.array(target_energies) - np.array(reference_energies))
+    return target_energies - reference_energies
 
 
 if __name__ == "__main__":
@@ -251,20 +287,16 @@ if __name__ == "__main__":
             continue
 
     diagnostics_dict = {}
+    forcefields = ["openff-2.2.1", "gaff-2.2.20"]
+    for ref, tar in list(permutations(forcefields, 2)):
+        for mid in mobley_ids:
+            work = get_work(mid, ref, tar)
+            diagnostics_dict.setdefault(mid, {})
+            diagnostics_dict[mid][f"{ref}-{tar}"] = (
+                get_statistics(work)
+            )
 
-    reference_forcefield, target_forcefield = "openff-2.2.1", "gaff-2.2.20"
-    for mid in mobley_ids:
-        work = get_work(mid, reference_forcefield, target_forcefield)
-        diagnostics_dict[mid][f"{reference_forcefield}-{target_forcefield}"] = (
-            get_statistics(work)
-        )
+    print(diagnostics_dict)
 
-    reference_forcefield, target_forcefield = "gaff-2.2.20", "openff-2.2.1"
-    for mid in mobley_ids:
-        work = get_work(mid, reference_forcefield, target_forcefield)
-        diagnostics_dict[mid][f"{reference_forcefield}-{target_forcefield}"] = (
-            get_statistics(work)
-        )
-
-    with open("diagnostics.json", "w", encoding="utf-8") as o:
-        json.dump(diagnostics_dict, o)
+    with open("diagnostics_v2.json", "w", encoding="utf-8") as o:
+        json.dump(diagnostics_dict, o, indent=4)
