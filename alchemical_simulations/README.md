@@ -1,31 +1,25 @@
 # Alchemical simulations
 In this folder, you will find a Python script to automatically perform 
-an absolute hydration free energy (AHFE) and a relative hydration free 
-energy (RHFE) analysis from methane to iodomethane with two different 
-software packages (`biosimspace` and `openfe`).
+absolute hydration free energy (AHFE) simulations for a given library
+of compounds using OpenFE.
 
-The first script, `bss_simulation.py`, uses the `biosimspace` simulation 
-package from OpenBioSim, and performs a default RHFE simulation for 1
-ns of equilibration and 4 ns of production. You may change the molecules 
-to perform the analysis on by editing the SMILES in input, but avoid 
-extremely flexible molecules as the mapping function is set to RMSD.
+The script (`openfe_transform.py`) can print an help string to explain
+usage. A library file is necessary, and a force field and a partial charge
+method can be specified on input (they default to `openff-2.2.1` and 
+`nagl`, but other options are available and can be printed with the 
+help of the script).
 
-The second script, `openfe_simulation.py`, uses the `openfe` simulation
-package from OpenFreeEnergy, and can perform either a AHFE or a RHFE
-simulation. The length of the simulations, left as default, is left 
-explicit in the main function so that it may be changed for testing.
-`openfe` uses `sdf` format files as input.
+A directory will be created containing the JSON format transformations 
+that can be run using the `openfe` package. Refer to `openfe quickrun` 
+documentation for further information.
 
-Please download the `biosimspace` and `openfe` packages.
-
-When you launch the script, directories will be created to setup the 
-simulation, then at the end the results will be printed to screen.
-You will be warned if the simulation was too short and the results
-are not reliable.
-If you decide to rerun a simulation, please backup or remove your
-previous results. Be aware that the simulation may take a while to run.
-
-Included is a script to run the AHFE simulations on an HPC environment
-with slurm, named `submit.sh`. The script launches three copies of a 
-single calculation to optimise resource utilization, instead of 
-running the copies serially as is the default for `openfe`.
+Results of the simulations for almost (~500/650) all molecules in the 
+library are available for `openff-nagl` and `gaff-am1bcc` force field/
+partial charge method combinations, and are divided as follows: 
+- `simulation_results.json` contains absolute hydration free energy estimates 
+and uncertainties obtained from the simulations;
+- `diagnostics.json` contains diagnostic information regarding the $\Delta U$
+distribution between each force field in each direction (for now, 
+`gaff-openff` and `openff-gaff`) at $\lambda=1.0$, such as mean, median, 
+standard deviation and effective sample size ratio. These statistics are 
+obtained with the functions in `diagnostic_utils.py`.
